@@ -1,5 +1,3 @@
-# Nakull296
-My GitHub Profile
 # Hi, I'm Nakul 👋
 
 ### 🚀 Computer Science Graduate | AI/ML Enthusiast | Full-Stack Developer
@@ -89,17 +87,6 @@ Worked on machine learning and computer vision projects involving:
 - Evaluated LLM responses for accuracy, relevance and clarity
 - Provided structured feedback to improve AI outputs
 - Conducted research for prompt development and evaluation
-
----
-
-## 📚 Currently Learning
-
-- Spring Boot
-- REST APIs
-- System Design
-- Data Structures & Algorithms
-- Generative AI
-- LLM Applications
 
 ---
 
